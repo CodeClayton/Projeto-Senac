@@ -1,0 +1,22 @@
+[
+   {
+      "name": "teste3",
+      "email": "a"
+   },
+   [
+      {
+         "name": "teste3",
+         "email": "a"
+      },
+      [
+         {
+            "name": "teste2",
+            "email": "a"
+         },
+         {
+            "name": "teste2",
+            "email": "a"
+         }
+      ]
+   ]
+]
